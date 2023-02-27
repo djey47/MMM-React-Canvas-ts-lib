@@ -1,0 +1,5 @@
+src/
+*.md
+*.spec.ts?
+*.tgz
+tsconfig.json
