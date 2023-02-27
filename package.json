@@ -1,0 +1,29 @@
+{
+  "name": "mmm-react-canvas-ts-lib",
+  "version": "0.0.1",
+  "description": "Library to support MagicMirror² modules based on MMM-React-Canvas-ts template",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --outDir build/",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djey47/MMM-React-Canvas-ts-lib.git"
+  },
+  "keywords": [
+    "magic",
+    "mirror",
+    "typescript",
+    "react"
+  ],
+  "author": "djey47",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djey47/MMM-React-Canvas-ts-lib/issues"
+  },
+  "homepage": "https://github.com/djey47/MMM-React-Canvas-ts-lib#readme",
+  "devDependencies": {
+    "typescript": "4.9.5"
+  }
+}
